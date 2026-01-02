@@ -19,7 +19,7 @@ The notebooks are intended to be run in the following order:
 2. `Piorkowska_Jonczyk_02_preprocessing.ipynb`
 3. `Piorkowska_Jonczyk_03_statistical_analysis.ipynb`
 
-All statistical analyses were performed in Python. Package versions are listed in `requirements.txt`.
+All statistical analyses were performed in Python. 
 
 ## Contact
 Corresponding author: natalia.piorkowska@pwr.edu.pl
