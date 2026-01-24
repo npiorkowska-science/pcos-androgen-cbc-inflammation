@@ -6,9 +6,9 @@ Analysis code for a cross-sectional study examining associations between CBC-der
 This repository contains the analysis code for a cross-sectional study examining associations between complete blood count (CBC)–derived leukocyte differential indices and insulin resistance in women with polycystic ovary syndrome (PCOS).
 
 ## Repository contents
-- `Piorkowska_Jonczyk_01_exploratory.ipynb` — exploratory data analysis and initial inspection
-- `Piorkowska_Jonczyk_02_preprocessing.ipynb` — data preprocessing, variable derivation, and missingness assessment
-- `Piorkowska_Jonczyk_03_statistical_analysis.ipynb` — correlation analyses, FDR correction, multivariable regression with HC3 robust standard errors, and sensitivity analyses
+- `Piorkowska_01_exploratory.ipynb` — exploratory data analysis and initial inspection
+- `Piorkowska_02_preprocessing.ipynb` — data preprocessing, variable derivation, and missingness assessment
+- `Piorkowska_03_statistical_analysis.ipynb` — correlation analyses, FDR correction, multivariable regression with HC3 robust standard errors, and sensitivity analyses
 
 ## Data availability
 The clinical dataset used in this study is **not publicly available** due to ethical and data protection restrictions. De-identified data may be made available from the corresponding author upon reasonable request and subject to institutional approval.
