@@ -8,7 +8,7 @@ This repository contains the analysis code for a cross-sectional study examining
 ## Repository contents
 - `Piorkowska_01_exploratory.ipynb` — exploratory data analysis and initial inspection
 - `Piorkowska_02_preprocessing.ipynb` — data preprocessing, variable derivation, and missingness assessment
-- `Piorkowska_03_statistical_analysis.ipynb` — correlation analyses, FDR correction, multivariable regression with HC3 robust standard errors, and sensitivity analyses
+- `Piorkowska_Jonczyk_03_statistical_analysis.ipynb` — correlation analyses, FDR correction, multivariable regression with HC3 robust standard errors, and sensitivity analyses
 
 ## Data availability
 The clinical dataset used in this study is **not publicly available** due to ethical and data protection restrictions. De-identified data may be made available from the corresponding author upon reasonable request and subject to institutional approval.
@@ -17,7 +17,7 @@ The clinical dataset used in this study is **not publicly available** due to eth
 The notebooks are intended to be run in the following order:
 1. `Piorkowska_01_exploratory.ipynb`
 2. `Piorkowska_02_preprocessing.ipynb`
-3. `Piorkowska_03_statistical_analysis.ipynb`
+3. `Piorkowska_Jonczyk_03_statistical_analysis.ipynb`
 
 All statistical analyses were performed in Python. 
 
